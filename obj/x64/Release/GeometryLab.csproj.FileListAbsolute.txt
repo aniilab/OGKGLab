@@ -1,0 +1,11 @@
+D:\c#\TestGeometry\TestGeometry\bin\x64\Release\TestGeometry.exe.config
+D:\c#\TestGeometry\TestGeometry\bin\x64\Release\TestGeometry.exe
+D:\c#\TestGeometry\TestGeometry\bin\x64\Release\TestGeometry.pdb
+D:\c#\TestGeometry\TestGeometry\obj\x64\Release\GeometryLab.csproj.AssemblyReference.cache
+D:\c#\TestGeometry\TestGeometry\obj\x64\Release\GeometryLab.csproj.SuggestedBindingRedirects.cache
+D:\c#\TestGeometry\TestGeometry\obj\x64\Release\TestGeometry.Properties.Resources.resources
+D:\c#\TestGeometry\TestGeometry\obj\x64\Release\GeometryLab.csproj.GenerateResource.cache
+D:\c#\TestGeometry\TestGeometry\obj\x64\Release\GeometryLab.csproj.CoreCompileInputs.cache
+D:\c#\TestGeometry\TestGeometry\obj\x64\Release\TestGeometry.exe
+D:\c#\TestGeometry\TestGeometry\obj\x64\Release\TestGeometry.pdb
+D:\c#\TestGeometry\TestGeometry\obj\x64\Release\TestGeometry.Form1.resources
